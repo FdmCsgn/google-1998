@@ -1,0 +1,51 @@
+h1 {
+    width: 500px;
+    margin: auto;
+}
+
+
+
+.başlık{
+    font-size: 20px;
+    width: 350px;
+    margin: auto;
+}
+.search {
+    background-color: white;
+    width: 350px;
+    margin-left: 400px;
+    color: white;
+}
+.çerçeve {
+    background-color: rgb(223, 210, 210);
+    height: 140px;
+    width: 1200px;
+    margin: auto;
+}
+.button {
+    margin: auto;
+    width: 220px;
+}
+.googlesearch {
+    box-shadow: 10px 5px 5px  rgb(83, 73, 73)
+}
+.searches {
+    width: 200px;
+    height: 50px ;
+    background-color: rgb(170, 170, 241);
+    padding: 5px 100px 5px 200px;
+}
+.help {
+    width: 150px;
+    height: 50px;
+    background-color: rgb(170, 170, 241);
+    padding-left: 50px;
+}
+.end {
+    width: 200px;
+    height: 50px;
+    background-color: rgb(170, 170, 241);
+    padding: 0px 100px 5px 200px;
+
+}
+
